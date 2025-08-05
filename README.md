@@ -1,11 +1,3 @@
-README
-
-Project Title  
-SQL Relational Database Management System Task
-
-Repository Description  
-This repository contains a database project demonstrating core SQL operations including schema design, data insertion, updates, conditional logic, data retrieval, and deletion. It is structured as part of a submission task.
-
 Files Included  
 - Task-1(Aug-04).sql  
   Defines the database schema including creation of tables and constraints  
